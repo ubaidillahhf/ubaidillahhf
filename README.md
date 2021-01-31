@@ -1,8 +1,11 @@
 ### Hi there 👋
 My name is Ubaidillah Hakim Fadly
+
 🌱 I’m currently learning Fullstack Javascript
-.
-Want to know me more ? Kindly visit my web : **ubed.dev**
+
+
+Want to know me more ? 
+Kindly visit my web : **ubed.dev**
 
 <!--
 **ubaidillahhf/ubaidillahhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
