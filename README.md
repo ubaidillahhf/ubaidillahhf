@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Ubaidillah Hakim Fadly**
 
-🌱 I’m currently learning Fullstack Javascript
+🌱 I’m Fullstack Javascript and currently learning Go-Lang
 
 
 Want to know me more ? 
