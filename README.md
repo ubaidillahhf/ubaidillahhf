@@ -31,4 +31,4 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ubaidillahhf&show_icons=true&locale=en&layout=compact" alt="ubaidillahhf" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ubaidillahhf&show_icons=true&locale=en&layout=compact&count_private=true" alt="ubaidillahhf" /></p>
