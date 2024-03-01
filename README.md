@@ -31,7 +31,6 @@
 ---
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidillahhf&count_private=true&hide_progress=true" alt="ubaidillahhf-countlang" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ubaidillahhf&show_icons=true&locale=en&layout=compact&count_private=true" alt="ubaidillahhf" />
 
 </p>
 
