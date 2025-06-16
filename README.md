@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node Advanced, Go, and Solidity for NFT**
 
-- 📝 I (not)regularly write articles on [https://ubed.dev](https://ubed.dev)
+- 📝 (not)regularly write articles on [https://ubed.dev](https://ubed.dev)
 
 - 📫 How to reach me **ubed.dev@gmail.com**
 
